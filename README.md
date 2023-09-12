@@ -7,6 +7,6 @@ Utilizar todas as tags explicadas nas aulas: `<h1>` até `<h6>`, `<p>`, `<mark>`
 
 Utilizar novas tags sugeridas: `<font>`, `<del>`, `<p>`, `<abbr>` (a ideia é buscar estas tags na internet, entender como elas funcionam e utilizar no texto)
 
-Após concluído este desafio, siga para o <strong>[Módulo II - Conceitos Básicos](addlinkdepois).</strong>
+Após concluído este desafio, siga para o <strong>[Módulo II - Conceitos Básicos](https://github.com/vicitel/trilha-html-modulo-02).</strong>
 
 Nos vemos lá!
